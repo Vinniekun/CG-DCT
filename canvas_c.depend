@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1490990400 source:c:\users\vinicius\desktop\cg_demos\gl_3_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1452489458 c:\users\vinicius\desktop\cg_demos\gl_3_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426332840 c:\users\vinicius\desktop\cg_demos\gl_3_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437540342 c:\users\vinicius\desktop\cg_demos\gl_3_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426332840 c:\users\vinicius\desktop\cg_demos\gl_3_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1490990355 source:c:\users\vinicius\desktop\cg_demos\gl_3_canvasglut\src\main_c.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+

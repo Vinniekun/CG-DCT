@@ -1,0 +1,27 @@
+Voce pode utilizar um dos 3 projetos:
+
+1 - versao em C para CodeBlocks            -> canvas_c.cdb
+2 - versao em C   para Visual Studio 2010  -> canvas_c.sln
+3 - versao em C++ para Visual Studio 2010  -> canvas_cpp.sln
+
+Cada projeto tem um demo diferente. 
+
+O arquivo ___compilar_opengl.pdf tem instrucoes de como configurar o ambiente para utilizar a biblioteca grafica Opengl. 
+O arquivo ___opengl_files.rar contem os arquivos necessarios para a compilacao de um projeto OpenGL para GCC e Visual Studio
+O arquivo ___compilar_.net.pdf tem instrucoes de como compilar uma aplicacao utilizando o compilador .net. 
+
+Voce pode utilizar esta canvas para diversos propositos:
+- desenvolver 80% dos trabalhos da disciplina de Computacao Grafica (quinto semestre);
+- programar jogos 2D como space invaders, tetris, e muitos outros;
+- fazer desenhos de figuras geometricas estaticas ou animadas;
+- exibir imagens de qualquer formato de arquivo. Basta ler o arquivo. 
+- etc. 
+
+Intrucoes:
+- Se voce nao conhecer a biblioteca OpenGL, procure nao olhar o arquivo gl_canvas2d.cpp. Veja somente o arquivo de interface
+  gl_canvas2d.h. 
+- Se voce nao souber C++, utilize o projeto em C. 
+
+___________________
+Pozzer.
+pozzer@inf.ufsm.br
